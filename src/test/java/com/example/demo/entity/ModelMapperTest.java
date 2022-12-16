@@ -61,7 +61,7 @@ public class ModelMapperTest {
     @Test
     public void peopleSaveTest(){
         PeopleDTO peopleDTO = new PeopleDTO();
-        peopleDTO.setName("박종우");
+        peopleDTO.setName("dawn");
         peopleDTO.setMoney(500000000);
         peopleDTO.setAge(27);
 
